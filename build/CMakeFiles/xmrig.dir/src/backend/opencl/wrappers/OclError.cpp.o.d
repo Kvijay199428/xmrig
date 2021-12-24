@@ -1,0 +1,23 @@
+CMakeFiles/xmrig.dir/src/backend/opencl/wrappers/OclError.cpp.o: \
+  /data/data/com.termux/files/home/termux-ubuntu/xmrig/src/backend/opencl/wrappers/OclError.cpp \
+  /data/data/com.termux/files/home/termux-ubuntu/xmrig/src/backend/opencl/wrappers/OclError.h \
+  /data/data/com.termux/files/home/termux-ubuntu/xmrig/src/3rdparty/cl.h \
+  /data/data/com.termux/files/home/termux-ubuntu/xmrig/src/3rdparty/CL/cl.h \
+  /data/data/com.termux/files/home/termux-ubuntu/xmrig/src/3rdparty/CL/cl_version.h \
+  /data/data/com.termux/files/home/termux-ubuntu/xmrig/src/3rdparty/CL/cl_platform.h \
+  /data/data/com.termux/files/usr/include/c++/v1/stdint.h \
+  /data/data/com.termux/files/usr/include/c++/v1/__config \
+  /data/data/com.termux/files/usr/include/features.h \
+  /data/data/com.termux/files/usr/include/sys/cdefs.h \
+  /data/data/com.termux/files/usr/include/android/versioning.h \
+  /data/data/com.termux/files/usr/include/android/api-level.h \
+  /data/data/com.termux/files/usr/include/bits/get_device_api_level_inlines.h \
+  /data/data/com.termux/files/usr/include/android/ndk-version.h \
+  /data/data/com.termux/files/usr/include/pthread.h \
+  /data/data/com.termux/files/usr/lib/clang/13.0.0/include/stdint.h \
+  /data/data/com.termux/files/usr/include/stdint.h \
+  /data/data/com.termux/files/usr/include/bits/wchar_limits.h \
+  /data/data/com.termux/files/usr/include/c++/v1/stddef.h \
+  /data/data/com.termux/files/usr/lib/clang/13.0.0/include/stddef.h \
+  /data/data/com.termux/files/usr/lib/clang/13.0.0/include/__stddef_max_align_t.h \
+  /data/data/com.termux/files/usr/include/c++/v1/__nullptr

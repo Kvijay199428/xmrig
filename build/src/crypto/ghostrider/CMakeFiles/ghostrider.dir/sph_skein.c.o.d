@@ -1,0 +1,35 @@
+src/crypto/ghostrider/CMakeFiles/ghostrider.dir/sph_skein.c.o: \
+  /data/data/com.termux/files/home/termux-ubuntu/xmrig/src/crypto/ghostrider/sph_skein.c \
+  /data/data/com.termux/files/usr/lib/clang/13.0.0/include/stddef.h \
+  /data/data/com.termux/files/usr/include/string.h \
+  /data/data/com.termux/files/usr/include/sys/cdefs.h \
+  /data/data/com.termux/files/usr/include/android/versioning.h \
+  /data/data/com.termux/files/usr/include/android/api-level.h \
+  /data/data/com.termux/files/usr/include/bits/get_device_api_level_inlines.h \
+  /data/data/com.termux/files/usr/include/android/ndk-version.h \
+  /data/data/com.termux/files/usr/include/xlocale.h \
+  /data/data/com.termux/files/usr/include/bits/strcasecmp.h \
+  /data/data/com.termux/files/usr/include/sys/types.h \
+  /data/data/com.termux/files/usr/lib/clang/13.0.0/include/stdint.h \
+  /data/data/com.termux/files/usr/include/stdint.h \
+  /data/data/com.termux/files/usr/include/bits/wchar_limits.h \
+  /data/data/com.termux/files/usr/include/linux/types.h \
+  /data/data/com.termux/files/usr/include/aarch64-linux-android/asm/types.h \
+  /data/data/com.termux/files/usr/include/asm-generic/types.h \
+  /data/data/com.termux/files/usr/include/asm-generic/int-ll64.h \
+  /data/data/com.termux/files/usr/include/aarch64-linux-android/asm/bitsperlong.h \
+  /data/data/com.termux/files/usr/include/asm-generic/bitsperlong.h \
+  /data/data/com.termux/files/usr/include/linux/posix_types.h \
+  /data/data/com.termux/files/usr/include/linux/stddef.h \
+  /data/data/com.termux/files/usr/include/linux/compiler_types.h \
+  /data/data/com.termux/files/usr/include/linux/compiler.h \
+  /data/data/com.termux/files/usr/include/aarch64-linux-android/asm/posix_types.h \
+  /data/data/com.termux/files/usr/include/asm-generic/posix_types.h \
+  /data/data/com.termux/files/usr/include/bits/pthread_types.h \
+  /data/data/com.termux/files/home/termux-ubuntu/xmrig/src/crypto/ghostrider/./sph_skein.h \
+  /data/data/com.termux/files/home/termux-ubuntu/xmrig/src/crypto/ghostrider/./sph_types.h \
+  /data/data/com.termux/files/usr/lib/clang/13.0.0/include/limits.h \
+  /data/data/com.termux/files/usr/include/limits.h \
+  /data/data/com.termux/files/usr/lib/clang/13.0.0/include/float.h \
+  /data/data/com.termux/files/usr/include/linux/limits.h \
+  /data/data/com.termux/files/usr/include/bits/posix_limits.h

@@ -1,0 +1,30 @@
+Determining if the __builtin___clear_cache exist failed with the following output:
+Change Dir: /data/data/com.termux/files/home/termux-ubuntu/xmrig/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/data/data/com.termux/files/usr/bin/make -f Makefile cmTC_f48aa/fast && /data/data/com.termux/files/usr/bin/make  -f CMakeFiles/cmTC_f48aa.dir/build.make CMakeFiles/cmTC_f48aa.dir/build
+make[1]: Entering directory '/data/data/com.termux/files/home/termux-ubuntu/xmrig/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_f48aa.dir/CheckSymbolExists.c.o
+/data/data/com.termux/files/usr/bin/cc   -Wall -march=armv8-a+crypto  -O2 -g -DNDEBUG -MD -MT CMakeFiles/cmTC_f48aa.dir/CheckSymbolExists.c.o -MF CMakeFiles/cmTC_f48aa.dir/CheckSymbolExists.c.o.d -o CMakeFiles/cmTC_f48aa.dir/CheckSymbolExists.c.o -c /data/data/com.termux/files/home/termux-ubuntu/xmrig/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+/data/data/com.termux/files/home/termux-ubuntu/xmrig/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:8:19: error: builtin functions must be directly called
+  return ((int*)(&__builtin___clear_cache))[argc];
+                  ^
+1 error generated.
+make[1]: *** [CMakeFiles/cmTC_f48aa.dir/build.make:79: CMakeFiles/cmTC_f48aa.dir/CheckSymbolExists.c.o] Error 1
+make[1]: Leaving directory '/data/data/com.termux/files/home/termux-ubuntu/xmrig/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:127: cmTC_f48aa/fast] Error 2
+
+
+File /data/data/com.termux/files/home/termux-ubuntu/xmrig/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <stdlib.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef __builtin___clear_cache
+  return ((int*)(&__builtin___clear_cache))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
